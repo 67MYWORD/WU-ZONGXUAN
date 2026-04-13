@@ -3,7 +3,7 @@
 **Course:** Media Professional Assignment  
 **Student:** WU ZONGXUAN  
 **Student ID:** I25030169  
-**Live Website URL:** [Insert GitHub Pages / Netlify Link Here]  
+**Live Website URL:** https://github.com/67MYWORD/WU-ZONGXUAN.git  
 **Date:** April 2026
 
 ---
