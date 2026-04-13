@@ -1,8 +1,8 @@
 # Digital Documentation: Promoting My Hometown City – Xi'an, China
 
 **Course:** Media Professional Assignment  
-**Student:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
+**Student:** WU ZONGXUAN  
+**Student ID:** I25030169  
 **Live Website URL:** [Insert GitHub Pages / Netlify Link Here]  
 **Date:** April 2026
 
